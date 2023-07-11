@@ -32,5 +32,4 @@ Vous pouvez faire un quizz sur n'importe quel sujet (star wars, pokémon, les ch
 Résultat :
 
 ![Image initiale](profile/img/2-1.jpg)
-
 ![Image initiale](profile/img/1-1.jpg)
