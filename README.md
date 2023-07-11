@@ -30,4 +30,5 @@ Vous pouvez faire un quizz sur n'importe quel sujet (star wars, pokémon, les ch
 ### C. Ajoutez du style à l'interface afin de terminer le projet.
 
 Résultat :
+
 ![Image initiale](profile/img/2.jpg)
